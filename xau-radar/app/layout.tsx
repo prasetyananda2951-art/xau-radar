@@ -1,8 +1,3 @@
-export const metadata = {
-  title: 'XAU Precision Radar',
-  description: 'Dashboard Trading Gold',
-}
-
 export default function RootLayout({
   children,
 }: {
