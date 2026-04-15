@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import { initializeApp } from "firebase/app";
 import { getDatabase, ref, onValue } from "firebase/database";
-import TradingViewChart from "./TradingViewChart";
+import TradingViewChart from './TradingViewChart';
 
 // Konfigurasi Firebase Anda
 const firebaseConfig = {
